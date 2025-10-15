@@ -11,7 +11,7 @@
           <mxGeometry x="270" y="670" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="30" y="310" width="410" height="200" as="geometry" />
+          <mxGeometry x="30" y="310" width="330" height="200" as="geometry" />
         </mxCell>
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-6" value="构图Agent" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="40" y="345" width="70" height="155" as="geometry" />
@@ -63,6 +63,12 @@
         </mxCell>
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-34" value="内容情感分析模块" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="280" y="345" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-36" value="多模态主导" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="460" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-38" value="交叉验证" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="460" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -5,15 +5,15 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-1" value="中央协调模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="359" y="160" width="110" height="50" as="geometry" />
+          <mxGeometry x="359" y="190" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-2" value="主裁判" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="359" y="620" width="110" height="50" as="geometry" />
+          <mxGeometry x="270" y="670" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="30" y="310" width="310" height="200" as="geometry" />
+          <mxGeometry x="30" y="310" width="410" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7KNt1Nz7WH9jpkUwbXel-6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-6" value="构图Agent" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="40" y="345" width="70" height="155" as="geometry" />
         </mxCell>
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
@@ -46,17 +46,23 @@
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-18" value="主题分析模块" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="305" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7KNt1Nz7WH9jpkUwbXel-19" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-19" value="色彩Agent" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="120" y="345" width="70" height="155" as="geometry" />
         </mxCell>
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-20" value="色彩与光照分析模块" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="350" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7KNt1Nz7WH9jpkUwbXel-23" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-23" value="技术质量Agent" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="200" y="345" width="70" height="155" as="geometry" />
         </mxCell>
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-22" value="技术质量分析模块" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="200" y="345" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-33" value="情感内容Agent" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="280" y="345" width="70" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-34" value="内容情感分析模块" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="345" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

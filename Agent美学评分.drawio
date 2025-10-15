@@ -70,6 +70,9 @@
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-38" value="交叉验证" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="120" y="460" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-40" value="硬指标主导" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="460" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

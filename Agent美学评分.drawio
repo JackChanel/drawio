@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="第 1 页" id="Exd2TtqdrU86Paezg1TP">
-    <mxGraphModel dx="815" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-1" value="中央协调模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-2" value="主裁判" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="590" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="310" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-5" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;属性分析模块&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="40" y="345" width="70" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="250" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-8" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;主题分析模块&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-9" value="人像" style="shape=card;whiteSpace=wrap;html=1;size=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-10" value="&lt;h4 style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: 28px; font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; margin: 16px 0px; color: rgb(15, 17, 21); text-align: start;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;line-height: 120%;&quot;&gt;自然景观&lt;/font&gt;&lt;/span&gt;&lt;/h4&gt;" style="shape=card;whiteSpace=wrap;html=1;size=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-11" value="静物/产品" style="shape=card;whiteSpace=wrap;html=1;size=20;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-12" value="建筑与城市风光" style="shape=card;whiteSpace=wrap;html=1;size=20;" vertex="1" parent="1">
+          <mxGeometry x="660" y="360" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-13" value="属性权重路由" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="315" width="250" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

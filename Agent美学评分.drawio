@@ -7,7 +7,7 @@
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-1" value="中央协调模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="150" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7KNt1Nz7WH9jpkUwbXel-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-7" value="可训练" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="480" y="305" width="250" height="210" as="geometry" />
         </mxCell>
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-9" value="人像" style="shape=card;whiteSpace=wrap;html=1;size=20;" vertex="1" parent="1">
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-14" value="置信分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="340" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7KNt1Nz7WH9jpkUwbXel-15" value="属性加权分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="527.5" y="387.5" width="155" height="45" as="geometry" />
         </mxCell>
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-18" value="主题分析模块" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="305" width="250" height="30" as="geometry" />
@@ -130,6 +127,12 @@
         </mxCell>
         <mxCell id="7KNt1Nz7WH9jpkUwbXel-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.464;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7KNt1Nz7WH9jpkUwbXel-63" target="7KNt1Nz7WH9jpkUwbXel-57">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-68" value="分数和评价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7KNt1Nz7WH9jpkUwbXel-69" value="属性权重分配矩阵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
